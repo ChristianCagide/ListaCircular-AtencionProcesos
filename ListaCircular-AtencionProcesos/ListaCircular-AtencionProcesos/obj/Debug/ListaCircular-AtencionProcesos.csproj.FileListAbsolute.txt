@@ -1,0 +1,9 @@
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ListaCircular-AtencionProcesos\ListaCircular-AtencionProcesos\bin\Debug\ListaCircular-AtencionProcesos.exe.config
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ListaCircular-AtencionProcesos\ListaCircular-AtencionProcesos\bin\Debug\ListaCircular-AtencionProcesos.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ListaCircular-AtencionProcesos\ListaCircular-AtencionProcesos\bin\Debug\ListaCircular-AtencionProcesos.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ListaCircular-AtencionProcesos\ListaCircular-AtencionProcesos\obj\Debug\ListaCircular-AtencionProcesos.csprojResolveAssemblyReference.cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ListaCircular-AtencionProcesos\ListaCircular-AtencionProcesos\obj\Debug\ListaCircular_AtencionProcesos.Form1.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ListaCircular-AtencionProcesos\ListaCircular-AtencionProcesos\obj\Debug\ListaCircular_AtencionProcesos.Properties.Resources.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ListaCircular-AtencionProcesos\ListaCircular-AtencionProcesos\obj\Debug\ListaCircular-AtencionProcesos.csproj.GenerateResource.Cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ListaCircular-AtencionProcesos\ListaCircular-AtencionProcesos\obj\Debug\ListaCircular-AtencionProcesos.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\ListaCircular-AtencionProcesos\ListaCircular-AtencionProcesos\obj\Debug\ListaCircular-AtencionProcesos.pdb
